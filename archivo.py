@@ -1,3 +1,4 @@
-numero = 4
-prinf(numero)
-hhhhhhhhhhd
+nombre = "soy ema"
+apellido "nuñez"
+ saludo = "hola" + nombre + apellido + "como estas"
+ print(saludo)
